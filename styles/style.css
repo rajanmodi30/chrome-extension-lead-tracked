@@ -1,0 +1,28 @@
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", Arial,
+    sans-serif;
+  text-align: center;
+  background-size: cover;
+  font-weight: bold;
+  color: white;
+}
+
+input {
+  border: 1px solid #5f9341;
+  width: 100%;
+  margin: 5px 0;
+}
+
+button {
+  color: white;
+  background-color: #5f9341;
+  border: none;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 4px;
+}
+
+li a {
+  text-decoration: none;
+  color: #5f9341;
+}
